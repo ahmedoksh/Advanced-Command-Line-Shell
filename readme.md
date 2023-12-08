@@ -1,4 +1,4 @@
-# Custom Shell in C
+# Advanced Command-Line Shell in C
 
 This project is a custom shell implemented in C. It provides a command prompt where you can execute commands, with support for background calls and several built-in functions for managing background processes.
 
